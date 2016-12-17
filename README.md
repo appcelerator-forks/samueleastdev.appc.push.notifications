@@ -16,6 +16,7 @@ The CA Email Address field should be left empty.
 In the "Request is" group, select the "Saved to disk" option.
 Click Continue within Keychain Access to complete the CSR generating process.
 
-# Create a new development certifcate with your newly created app id
+# Create a new development certificate with your newly created app id
 # Download and double click install
 
+#Run on phone allow push notification now device id returned
