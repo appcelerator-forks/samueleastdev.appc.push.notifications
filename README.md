@@ -19,4 +19,6 @@ Click Continue within Keychain Access to complete the CSR generating process.
 # Create a new development certificate with your newly created app id
 # Download and double click install
 
-#Run on phone allow push notification no device id returned
+#Run on phone allow push notification
+
+# Make sure you register call is inside the acs login block please see alloy.js
